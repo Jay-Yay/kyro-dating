@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/kyro-ghost-runner-flow.html" }
+  ]
+}
